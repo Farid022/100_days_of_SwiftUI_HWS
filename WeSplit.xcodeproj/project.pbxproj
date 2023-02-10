@@ -42,6 +42,10 @@
 		3E1B8E65292C6E520012BBA6 /* ExpenseAddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E1B8E64292C6E520012BBA6 /* ExpenseAddView.swift */; };
 		3E268991293AFB6F00641C14 /* MileStone_pro7_9_HabitTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E268990293AFB6F00641C14 /* MileStone_pro7_9_HabitTracking.swift */; };
 		3E268994293AFDF000641C14 /* HWS_playGround_100days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E268993293AFDF000641C14 /* HWS_playGround_100days.swift */; };
+		3E3592A5298C94070090D389 /* P19_mcqs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3592A4298C94070090D389 /* P19_mcqs.swift */; };
+		3E3592A7298CBF670090D389 /* DedailView_HP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3592A6298CBF670090D389 /* DedailView_HP.swift */; };
+		3E3592A9298CC64A0090D389 /* 100_MCQS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3592A8298CC64A0090D389 /* 100_MCQS.swift */; };
+		3E3592AB298CC8670090D389 /* TryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3592AA298CC8670090D389 /* TryView.swift */; };
 		3E35C45F29628F5000DC6F89 /* Decode-URLSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E35C45E29628F5000DC6F89 /* Decode-URLSession.swift */; };
 		3E3B0B68297DF91200923CF9 /* Prospects_VM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3B0B61297DF91200923CF9 /* Prospects_VM.swift */; };
 		3E3B0B69297DF91200923CF9 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3B0B63297DF91200923CF9 /* Prospect.swift */; };
@@ -69,6 +73,7 @@
 		3E5DDA74291FAA0B00434A30 /* Project_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DDA73291FAA0B00434A30 /* Project_3.swift */; };
 		3E5DDA76291FAA1300434A30 /* Project_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DDA75291FAA1300434A30 /* Project_4.swift */; };
 		3E5DDA78291FAA1A00434A30 /* Project_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DDA77291FAA1A00434A30 /* Project_5.swift */; };
+		3E60CF3A298BC05D009EF391 /* Favourites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E60CF39298BC05D009EF391 /* Favourites.swift */; };
 		3E73EC9429285B5700D0091D /* MileStone_p2_edutainment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E73EC9329285B5700D0091D /* MileStone_p2_edutainment.swift */; };
 		3E73EC96292B01F300D0091D /* Project7_iExpense.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E73EC95292B01F300D0091D /* Project7_iExpense.swift */; };
 		3E7A9F5D29493DBF007E3F39 /* Projec_11_practice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7A9F5C29493DBF007E3F39 /* Projec_11_practice.swift */; };
@@ -86,6 +91,16 @@
 		3EAAED4829889DCC0037D757 /* DiceRoll_Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED4729889DCC0037D757 /* DiceRoll_Challenge.swift */; };
 		3EAAED4B29889EB70037D757 /* FriendFace_MileStone..swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED4A29889EB70037D757 /* FriendFace_MileStone..swift */; };
 		3EAAED4E29889F6C0037D757 /* Learned_following.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED4D29889F6C0037D757 /* Learned_following.swift */; };
+		3EAAED522988BE100037D757 /* Practice_part.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED512988BE100037D757 /* Practice_part.swift */; };
+		3EAAED562989EC180037D757 /* resorts.json in Resources */ = {isa = PBXBuildFile; fileRef = 3EAAED552989EC180037D757 /* resorts.json */; };
+		3EAAED582989EE990037D757 /* Resort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED572989EE990037D757 /* Resort.swift */; };
+		3EAAED5A2989F16A0037D757 /* SS_HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED592989F16A0037D757 /* SS_HomeView.swift */; };
+		3EAAED5C298A07DF0037D757 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED5B298A07DF0037D757 /* WelcomeView.swift */; };
+		3EAAED5E298A11540037D757 /* ResortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED5D298A11540037D757 /* ResortView.swift */; };
+		3EAAED60298A16450037D757 /* SkiDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED5F298A16450037D757 /* SkiDetailsView.swift */; };
+		3EAAED62298A17680037D757 /* ResortDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED61298A17680037D757 /* ResortDetailsView.swift */; };
+		3EAAED64298B672D0037D757 /* Facility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED63298B672D0037D757 /* Facility.swift */; };
+		3EAAED67298B70C60037D757 /* BaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAAED66298B70C60037D757 /* BaseModel.swift */; };
 		3EAF80782986616000391A3F /* iExpense_HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAF80772986616000391A3F /* iExpense_HomeView.swift */; };
 		3EAF809829874BE800391A3F /* what_learned_16_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAF809729874BE800391A3F /* what_learned_16_18.swift */; };
 		3EB25F14297F5674009230F1 /* Practice_Flashzilla.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB25F13297F5674009230F1 /* Practice_Flashzilla.swift */; };
@@ -136,6 +151,10 @@
 		3E1B8E64292C6E520012BBA6 /* ExpenseAddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseAddView.swift; sourceTree = "<group>"; };
 		3E268990293AFB6F00641C14 /* MileStone_pro7_9_HabitTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MileStone_pro7_9_HabitTracking.swift; sourceTree = "<group>"; };
 		3E268993293AFDF000641C14 /* HWS_playGround_100days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_playGround_100days.swift; sourceTree = "<group>"; };
+		3E3592A4298C94070090D389 /* P19_mcqs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P19_mcqs.swift; sourceTree = "<group>"; };
+		3E3592A6298CBF670090D389 /* DedailView_HP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DedailView_HP.swift; sourceTree = "<group>"; };
+		3E3592A8298CC64A0090D389 /* 100_MCQS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 100_MCQS.swift; sourceTree = "<group>"; };
+		3E3592AA298CC8670090D389 /* TryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryView.swift; sourceTree = "<group>"; };
 		3E35C45E29628F5000DC6F89 /* Decode-URLSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decode-URLSession.swift"; sourceTree = "<group>"; };
 		3E3B0B61297DF91200923CF9 /* Prospects_VM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prospects_VM.swift; sourceTree = "<group>"; };
 		3E3B0B63297DF91200923CF9 /* Prospect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
@@ -163,6 +182,7 @@
 		3E5DDA73291FAA0B00434A30 /* Project_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_3.swift; sourceTree = "<group>"; };
 		3E5DDA75291FAA1300434A30 /* Project_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_4.swift; sourceTree = "<group>"; };
 		3E5DDA77291FAA1A00434A30 /* Project_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_5.swift; sourceTree = "<group>"; };
+		3E60CF39298BC05D009EF391 /* Favourites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favourites.swift; sourceTree = "<group>"; };
 		3E73EC9329285B5700D0091D /* MileStone_p2_edutainment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MileStone_p2_edutainment.swift; sourceTree = "<group>"; };
 		3E73EC95292B01F300D0091D /* Project7_iExpense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project7_iExpense.swift; sourceTree = "<group>"; };
 		3E7A9F5C29493DBF007E3F39 /* Projec_11_practice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projec_11_practice.swift; sourceTree = "<group>"; };
@@ -178,6 +198,16 @@
 		3EAAED4729889DCC0037D757 /* DiceRoll_Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceRoll_Challenge.swift; sourceTree = "<group>"; };
 		3EAAED4A29889EB70037D757 /* FriendFace_MileStone..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendFace_MileStone..swift; sourceTree = "<group>"; };
 		3EAAED4D29889F6C0037D757 /* Learned_following.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learned_following.swift; sourceTree = "<group>"; };
+		3EAAED512988BE100037D757 /* Practice_part.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice_part.swift; sourceTree = "<group>"; };
+		3EAAED552989EC180037D757 /* resorts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = resorts.json; sourceTree = "<group>"; };
+		3EAAED572989EE990037D757 /* Resort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resort.swift; sourceTree = "<group>"; };
+		3EAAED592989F16A0037D757 /* SS_HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SS_HomeView.swift; sourceTree = "<group>"; };
+		3EAAED5B298A07DF0037D757 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		3EAAED5D298A11540037D757 /* ResortView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortView.swift; sourceTree = "<group>"; };
+		3EAAED5F298A16450037D757 /* SkiDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiDetailsView.swift; sourceTree = "<group>"; };
+		3EAAED61298A17680037D757 /* ResortDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortDetailsView.swift; sourceTree = "<group>"; };
+		3EAAED63298B672D0037D757 /* Facility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facility.swift; sourceTree = "<group>"; };
+		3EAAED66298B70C60037D757 /* BaseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseModel.swift; sourceTree = "<group>"; };
 		3EAF80772986616000391A3F /* iExpense_HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iExpense_HomeView.swift; sourceTree = "<group>"; };
 		3EAF809729874BE800391A3F /* what_learned_16_18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = what_learned_16_18.swift; sourceTree = "<group>"; };
 		3EB25F13297F5674009230F1 /* Practice_Flashzilla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice_Flashzilla.swift; sourceTree = "<group>"; };
@@ -235,12 +265,12 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		3E0F6A94297534C300B1523F /* Project_15_Accessibiblity_sandbox */ = {
+		3E0F6A94297534C300B1523F /* Project15_Accessibiblity_sandbox */ = {
 			isa = PBXGroup;
 			children = (
 				3E0F6A952975354F00B1523F /* Practice_15.swift */,
 			);
-			path = Project_15_Accessibiblity_sandbox;
+			path = Project15_Accessibiblity_sandbox;
 			sourceTree = "<group>";
 		};
 		3E0F6A9929762A8A00B1523F /* Milestone_Projects _13_15 */ = {
@@ -282,7 +312,7 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		3E13B4C7292F778C00F874CF /* MoonShot_project8 */ = {
+		3E13B4C7292F778C00F874CF /* Project8_MoonShot */ = {
 			isa = PBXGroup;
 			children = (
 				3E46D18929865E6E002F6D5B /* Models */,
@@ -290,27 +320,27 @@
 				3E46D18829865E66002F6D5B /* Views */,
 				3E13B4C8292F77AF00F874CF /* MoonShot_pro8.swift */,
 			);
-			path = MoonShot_project8;
+			path = Project8_MoonShot;
 			sourceTree = "<group>";
 		};
-		3E17250829665117000CCB8D /* Instafilter_project 13 */ = {
+		3E17250829665117000CCB8D /* Project 13_Instafilter */ = {
 			isa = PBXGroup;
 			children = (
 				3E172509296653F6000CCB8D /* Instafilter_practice.swift */,
 				3E17250B29667741000CCB8D /* ImagePicker.swift */,
 				3E9F45492967A17D008A4154 /* Instafilter_Project.swift */,
 			);
-			path = "Instafilter_project 13";
+			path = "Project 13_Instafilter";
 			sourceTree = "<group>";
 		};
-		3E1B8E5F292C4E410012BBA6 /* iExpenses_project7 */ = {
+		3E1B8E5F292C4E410012BBA6 /* Project7_iExpenses */ = {
 			isa = PBXGroup;
 			children = (
 				3EAF8076298660EA00391A3F /* Models+ ViewModels */,
 				3EAF8075298660E200391A3F /* Views */,
 				3E73EC95292B01F300D0091D /* Project7_iExpense.swift */,
 			);
-			path = iExpenses_project7;
+			path = Project7_iExpenses;
 			sourceTree = "<group>";
 		};
 		3E268992293AFDBB00641C14 /* HWS_playGround */ = {
@@ -354,6 +384,7 @@
 				3E3B0B65297DF91200923CF9 /* ProspectsView.swift */,
 				3E3B0B66297DF91200923CF9 /* MeView.swift */,
 				3E3B0B67297DF91200923CF9 /* HP_HomeView.swift */,
+				3E3592A6298CBF670090D389 /* DedailView_HP.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -386,13 +417,14 @@
 			path = Meetup_challenge;
 			sourceTree = "<group>";
 		};
-		3E46D1792984A2C2002F6D5B /* Project_18_LayoutAndGeometry */ = {
+		3E46D1792984A2C2002F6D5B /* Project18_LayoutAndGeometry */ = {
 			isa = PBXGroup;
 			children = (
 				3E46D17A2984A2FA002F6D5B /* Practice.swift */,
 				3E46D18629861465002F6D5B /* MCQS_swiftui_layouts.swift */,
+				3EAF809629874B9B00391A3F /* What_learned_16-18 */,
 			);
-			path = Project_18_LayoutAndGeometry;
+			path = Project18_LayoutAndGeometry;
 			sourceTree = "<group>";
 		};
 		3E46D18829865E66002F6D5B /* Views */ = {
@@ -466,30 +498,31 @@
 			path = "Projects 1-6";
 			sourceTree = "<group>";
 		};
-		3E58B3B329342B360061C31A /* Project-9-Drawing */ = {
+		3E58B3B329342B360061C31A /* Project9_Drawing */ = {
 			isa = PBXGroup;
 			children = (
 				3E58B3B429342B560061C31A /* Drawing.swift */,
 			);
-			path = "Project-9-Drawing";
+			path = Project9_Drawing;
 			sourceTree = "<group>";
 		};
 		3E5DDA68291FA41100434A30 /* Projects */ = {
 			isa = PBXGroup;
 			children = (
 				3E58B3B229342AF00061C31A /* Projects 1-6 */,
-				3E1B8E5F292C4E410012BBA6 /* iExpenses_project7 */,
-				3E13B4C7292F778C00F874CF /* MoonShot_project8 */,
-				3E58B3B329342B360061C31A /* Project-9-Drawing */,
-				3E8B8E78293C65220019C78C /* CupCake_corner_pro10 */,
-				3E7A9F5B29493D5B007E3F39 /* Bookworm_Project11_12 */,
-				3E17250829665117000CCB8D /* Instafilter_project 13 */,
-				3E8463B1296F8D1F001CE000 /* BucketList_pro_14 */,
-				3E0F6A94297534C300B1523F /* Project_15_Accessibiblity_sandbox */,
-				3EBACBDD2977D26F0091CF82 /* HotProspects_poject_16 */,
-				3EB25F12297F5636009230F1 /* Flashzilla_Project_17 */,
-				3E46D1792984A2C2002F6D5B /* Project_18_LayoutAndGeometry */,
-				3EAF809629874B9B00391A3F /* What_learned_16-18 */,
+				3E1B8E5F292C4E410012BBA6 /* Project7_iExpenses */,
+				3E13B4C7292F778C00F874CF /* Project8_MoonShot */,
+				3E58B3B329342B360061C31A /* Project9_Drawing */,
+				3E8B8E78293C65220019C78C /* Project10_CupCakeCorner */,
+				3E7A9F5B29493D5B007E3F39 /* Project11_12_Bookworm */,
+				3E17250829665117000CCB8D /* Project 13_Instafilter */,
+				3E8463B1296F8D1F001CE000 /* Project14_BucketList */,
+				3E0F6A94297534C300B1523F /* Project15_Accessibiblity_sandbox */,
+				3EBACBDD2977D26F0091CF82 /* Project16_HotProspects */,
+				3EB25F12297F5636009230F1 /* Project17_Flashzilla */,
+				3E46D1792984A2C2002F6D5B /* Project18_LayoutAndGeometry */,
+				3EAAED502988BDE20037D757 /* Project19_snowseeker */,
+				3E3592AA298CC8670090D389 /* TryView.swift */,
 			);
 			path = Projects;
 			sourceTree = "<group>";
@@ -515,15 +548,45 @@
 			path = MileStone_projects;
 			sourceTree = "<group>";
 		};
-		3E7A9F5B29493D5B007E3F39 /* Bookworm_Project11_12 */ = {
+		3E60CF3B298BC88E009EF391 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3EAAED5B298A07DF0037D757 /* WelcomeView.swift */,
+				3EAAED592989F16A0037D757 /* SS_HomeView.swift */,
+				3EAAED5D298A11540037D757 /* ResortView.swift */,
+				3EAAED61298A17680037D757 /* ResortDetailsView.swift */,
+				3EAAED5F298A16450037D757 /* SkiDetailsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3E60CF3C298BC898009EF391 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3E60CF39298BC05D009EF391 /* Favourites.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3E60CF3D298BC8A1009EF391 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3EAAED572989EE990037D757 /* Resort.swift */,
+				3EAAED552989EC180037D757 /* resorts.json */,
+				3EAAED63298B672D0037D757 /* Facility.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3E7A9F5B29493D5B007E3F39 /* Project11_12_Bookworm */ = {
 			isa = PBXGroup;
 			children = (
 				3E7A9F5C29493DBF007E3F39 /* Projec_11_practice.swift */,
 			);
-			path = Bookworm_Project11_12;
+			path = Project11_12_Bookworm;
 			sourceTree = "<group>";
 		};
-		3E8463B1296F8D1F001CE000 /* BucketList_pro_14 */ = {
+		3E8463B1296F8D1F001CE000 /* Project14_BucketList */ = {
 			isa = PBXGroup;
 			children = (
 				3E3B0B6D297DFA3900923CF9 /* Project */,
@@ -531,17 +594,17 @@
 				3E1050042974D1A30039E096 /* MCQS_project14.swift */,
 				3E0F6AAD2977935000B1523F /* UnderstandMap.swift */,
 			);
-			path = BucketList_pro_14;
+			path = Project14_BucketList;
 			sourceTree = "<group>";
 		};
-		3E8B8E78293C65220019C78C /* CupCake_corner_pro10 */ = {
+		3E8B8E78293C65220019C78C /* Project10_CupCakeCorner */ = {
 			isa = PBXGroup;
 			children = (
 				3E46D18E29866035002F6D5B /* Model+ViewModel */,
 				3E46D18D2986602D002F6D5B /* Views */,
 				3E8B8E9B29403AEB0019C78C /* Practice_pro10.swift */,
 			);
-			path = CupCake_corner_pro10;
+			path = Project10_CupCakeCorner;
 			sourceTree = "<group>";
 		};
 		3EAAED4629889D760037D757 /* MileStone 16-18 */ = {
@@ -572,6 +635,34 @@
 			path = "Try 1 FriendFace";
 			sourceTree = "<group>";
 		};
+		3EAAED502988BDE20037D757 /* Project19_snowseeker */ = {
+			isa = PBXGroup;
+			children = (
+				3EAAED542989EBF60037D757 /* Project */,
+				3EAAED512988BE100037D757 /* Practice_part.swift */,
+				3E3592A4298C94070090D389 /* P19_mcqs.swift */,
+			);
+			path = Project19_snowseeker;
+			sourceTree = "<group>";
+		};
+		3EAAED542989EBF60037D757 /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				3E60CF3D298BC8A1009EF391 /* Models */,
+				3E60CF3C298BC898009EF391 /* ViewModels */,
+				3E60CF3B298BC88E009EF391 /* Views */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		3EAAED65298B708B0037D757 /* Twitter API call fresher. */ = {
+			isa = PBXGroup;
+			children = (
+				3EAAED66298B70C60037D757 /* BaseModel.swift */,
+			);
+			path = "Twitter API call fresher.";
+			sourceTree = "<group>";
+		};
 		3EAF8075298660E200391A3F /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -598,14 +689,14 @@
 			path = "What_learned_16-18";
 			sourceTree = "<group>";
 		};
-		3EB25F12297F5636009230F1 /* Flashzilla_Project_17 */ = {
+		3EB25F12297F5636009230F1 /* Project17_Flashzilla */ = {
 			isa = PBXGroup;
 			children = (
 				3EB281CE297FD9330021826A /* Project_flashZilla */,
 				3EB25F13297F5674009230F1 /* Practice_Flashzilla.swift */,
 				3E46D17129849DF0002F6D5B /* Its_MCQS.swift */,
 			);
-			path = Flashzilla_Project_17;
+			path = Project17_Flashzilla;
 			sourceTree = "<group>";
 		};
 		3EB281CE297FD9330021826A /* Project_flashZilla */ = {
@@ -643,7 +734,7 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		3EBACBDD2977D26F0091CF82 /* HotProspects_poject_16 */ = {
+		3EBACBDD2977D26F0091CF82 /* Project16_HotProspects */ = {
 			isa = PBXGroup;
 			children = (
 				3E3B0B5F297DF91200923CF9 /* HotProspects */,
@@ -651,7 +742,7 @@
 				3E3B0B96297E0F6B00923CF9 /* MCQS.swift */,
 				3E3B0B98297E125700923CF9 /* Challege.swift */,
 			);
-			path = HotProspects_poject_16;
+			path = Project16_HotProspects;
 			sourceTree = "<group>";
 		};
 		3EF4D56729193D770068F51E = {
@@ -673,17 +764,19 @@
 		3EF4D57229193D770068F51E /* WeSplit */ = {
 			isa = PBXGroup;
 			children = (
-				3E268992293AFDBB00641C14 /* HWS_playGround */,
-				3E8742BE2920C62300AB370E /* SleepCalculator.mlmodel */,
-				3E5DDA70291FA61300434A30 /* MileStone_projects */,
-				3E5DDA69291FA41B00434A30 /* Challenges */,
-				3E5DDA68291FA41100434A30 /* Projects */,
-				3EF4D5832919F5DA0068F51E /* HWS_apps */,
-				3EE0B7A2291DF73D00F01842 /* Info.plist */,
-				3EF4D57329193D770068F51E /* WeSplitApp.swift */,
-				3EF4D57529193D770068F51E /* ContentView.swift */,
+				3EAAED65298B708B0037D757 /* Twitter API call fresher. */,
 				3EF4D57729193D780068F51E /* Assets.xcassets */,
+				3E5DDA69291FA41B00434A30 /* Challenges */,
+				3EF4D57529193D770068F51E /* ContentView.swift */,
+				3EF4D5832919F5DA0068F51E /* HWS_apps */,
+				3E268992293AFDBB00641C14 /* HWS_playGround */,
+				3EE0B7A2291DF73D00F01842 /* Info.plist */,
+				3E5DDA70291FA61300434A30 /* MileStone_projects */,
 				3EF4D57929193D780068F51E /* Preview Content */,
+				3E5DDA68291FA41100434A30 /* Projects */,
+				3E8742BE2920C62300AB370E /* SleepCalculator.mlmodel */,
+				3EF4D57329193D770068F51E /* WeSplitApp.swift */,
+				3E3592A8298CC64A0090D389 /* 100_MCQS.swift */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
@@ -772,6 +865,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EAAED562989EC180037D757 /* resorts.json in Resources */,
 				3EF4D57B29193D780068F51E /* Preview Assets.xcassets in Resources */,
 				3E13B4CC293047DB00F874CF /* missions.json in Resources */,
 				3E13B4CD293047DB00F874CF /* astronauts.json in Resources */,
@@ -787,6 +881,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EAAED60298A16450037D757 /* SkiDetailsView.swift in Sources */,
 				3E17250C29667741000CCB8D /* ImagePicker.swift in Sources */,
 				3E3B0B97297E0F6B00923CF9 /* MCQS.swift in Sources */,
 				3E8463B3296F8D65001CE000 /* BucketList_practice.swift in Sources */,
@@ -805,6 +900,8 @@
 				3E1B8E65292C6E520012BBA6 /* ExpenseAddView.swift in Sources */,
 				3E13B4CF29304A6400F874CF /* Astronaut.swift in Sources */,
 				3E3B0B95297DFF4E00923CF9 /* All in one.swift in Sources */,
+				3E3592A7298CBF670090D389 /* DedailView_HP.swift in Sources */,
+				3EAAED64298B672D0037D757 /* Facility.swift in Sources */,
 				3E3B0B6A297DF91200923CF9 /* ProspectsView.swift in Sources */,
 				3E268991293AFB6F00641C14 /* MileStone_pro7_9_HabitTracking.swift in Sources */,
 				3E4AD2B32961CAE500D74201 /* BB_ViewModel.swift in Sources */,
@@ -822,13 +919,16 @@
 				3E4AD2B12961CAC900D74201 /* BB_Model.swift in Sources */,
 				3E46D17229849DF0002F6D5B /* Its_MCQS.swift in Sources */,
 				3E0F6AAE2977935000B1523F /* UnderstandMap.swift in Sources */,
+				3EAAED582989EE990037D757 /* Resort.swift in Sources */,
 				3E183FDE29719116004208CB /* Location.swift in Sources */,
 				3E46D18729861465002F6D5B /* MCQS_swiftui_layouts.swift in Sources */,
+				3E60CF3A298BC05D009EF391 /* Favourites.swift in Sources */,
 				3E5DDA78291FAA1A00434A30 /* Project_5.swift in Sources */,
 				3E5DDA6D291FA4BC00434A30 /* Project_1.swift in Sources */,
 				3E3B0B68297DF91200923CF9 /* Prospects_VM.swift in Sources */,
 				3E35C45F29628F5000DC6F89 /* Decode-URLSession.swift in Sources */,
 				3EAAED4829889DCC0037D757 /* DiceRoll_Challenge.swift in Sources */,
+				3EAAED5C298A07DF0037D757 /* WelcomeView.swift in Sources */,
 				3E0F6AA029762B5000B1523F /* AddView_p13_15.swift in Sources */,
 				3E104FFF29728F3D0039E096 /* Result2.swift in Sources */,
 				3E13B4D72931975B00F874CF /* MissionView.swift in Sources */,
@@ -844,7 +944,9 @@
 				3E13B4D32930BD3400F874CF /* Mission.swift in Sources */,
 				3E13B4D52930FF1D00F874CF /* Color-Theme.swift in Sources */,
 				3E73EC9429285B5700D0091D /* MileStone_p2_edutainment.swift in Sources */,
+				3EAAED62298A17680037D757 /* ResortDetailsView.swift in Sources */,
 				3E0F6AA229762B7100B1523F /* DetailView_p13_15.swift in Sources */,
+				3E3592A5298C94070090D389 /* P19_mcqs.swift in Sources */,
 				3EF4D5822919F5D30068F51E /* We_split.swift in Sources */,
 				3E8742BF2920C62300AB370E /* SleepCalculator.mlmodel in Sources */,
 				3E58B3B529342B560061C31A /* Drawing.swift in Sources */,
@@ -854,14 +956,19 @@
 				3E8B8E7A293C65580019C78C /* CupcakeCorner.swift in Sources */,
 				3E3B0B99297E125700923CF9 /* Challege.swift in Sources */,
 				3E5DDA6F291FA53700434A30 /* Project_2.swift in Sources */,
+				3EAAED5E298A11540037D757 /* ResortView.swift in Sources */,
+				3EAAED522988BE100037D757 /* Practice_part.swift in Sources */,
+				3E3592A9298CC64A0090D389 /* 100_MCQS.swift in Sources */,
 				3E3B0B69297DF91200923CF9 /* Prospect.swift in Sources */,
 				3E0F6AA829764EF700B1523F /* Gymer_RowView.swift in Sources */,
 				3EF4D57629193D770068F51E /* ContentView.swift in Sources */,
 				3E73EC96292B01F300D0091D /* Project7_iExpense.swift in Sources */,
 				3E0F6AA4297647A800B1523F /* Gymer.swift in Sources */,
 				3E4AD2AF2961CABB00D74201 /* HomeView_BB.swift in Sources */,
+				3EAAED5A2989F16A0037D757 /* SS_HomeView.swift in Sources */,
 				3E0F6A962975354F00B1523F /* Practice_15.swift in Sources */,
 				3EF4D57429193D770068F51E /* WeSplitApp.swift in Sources */,
+				3E3592AB298CC8670090D389 /* TryView.swift in Sources */,
 				3E3B0B6C297DF91200923CF9 /* HP_HomeView.swift in Sources */,
 				3E1050052974D1A30039E096 /* MCQS_project14.swift in Sources */,
 				3EB25F14297F5674009230F1 /* Practice_Flashzilla.swift in Sources */,
@@ -869,6 +976,7 @@
 				3E8B8E9E29403B440019C78C /* AddressView.swift in Sources */,
 				3E3B0B6B297DF91200923CF9 /* MeView.swift in Sources */,
 				3EAAED4B29889EB70037D757 /* FriendFace_MileStone..swift in Sources */,
+				3EAAED67298B70C60037D757 /* BaseModel.swift in Sources */,
 				3EAF809829874BE800391A3F /* what_learned_16_18.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

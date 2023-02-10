@@ -12,7 +12,7 @@ import SwiftUI
 struct WeSplitApp: App {
     var body: some Scene {
         WindowGroup {
-            HP_HomeView()
+            SS_HomeView(allTypes: .none)
         }
     }
 }

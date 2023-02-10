@@ -129,6 +129,7 @@ struct Project_5_animatation: View {
             .clipShape(Circle())
             //.scaleEffect(animationAmount)
             .rotation3DEffect(.degrees(animationAmount), axis: (x: 0, y: 1, z: 0))
+            .animation(.easeIn)
             
             
             Button("Tap Me!") {
